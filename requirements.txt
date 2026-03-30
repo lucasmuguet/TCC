@@ -1,0 +1,5 @@
+pysus
+jupyter
+pandas
+numpy
+matplotlib
