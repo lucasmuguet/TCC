@@ -1,12 +1,10 @@
-<<<<<<< HEAD
+
 pysus
 jupyter
 pandas
 numpy
-=======
 pysus
 jupyter
 pandas
 numpy
->>>>>>> 082999f (Adição do docker-compose e atualização do SINASC.ipynb)
 matplotlib
